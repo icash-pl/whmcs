@@ -1,0 +1,16 @@
+{
+    "name": "icash-pl/whmcs",
+    "description": "iCash WHMCS",
+    "keywords": ["icash", "api", "whmcs"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "icash-pl/api-php": "^1.0.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "iCashpl\\Whmcs\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

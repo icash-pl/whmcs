@@ -1,11 +1,6 @@
 iCash.pl: WHMCS
 ==
 
-## Quick Installation
-```php   
-composer require icash-pl/whmcs
-```
-
 ## Getting started
 
 ```php

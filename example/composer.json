@@ -1,0 +1,5 @@
+{
+    "require": {
+        "icash-pl/whmcs": "^1.0"
+    }
+}
